@@ -20,5 +20,5 @@ Fakultas Ilmu Komputer, Universitas Indonesia
 
 ---
 This is a repository uploaded from local for portofolio purposes. The original directory was located in [here](https://drive.google.com/drive/u/2/folders/1CdkZykACNigfnXAj-tAiu2ZHdmpZLM-R). 
-*Refer to the file ProyekAkhir_YukBisaYuk_RES.ipynb to see the final result of this project. 
-*Refer to [here](https://drive.google.com/file/d/1gCoQYmUJz1GrEkImM6vPajXBeco5yWh3/view) for the presentation file. 
+* Refer to the file ProyekAkhir_YukBisaYuk_RES.ipynb to see the final result of this project. 
+* Refer to [here](https://drive.google.com/file/d/1gCoQYmUJz1GrEkImM6vPajXBeco5yWh3/view) for the presentation file. 
